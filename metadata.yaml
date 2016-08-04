@@ -1,0 +1,54 @@
+_repo: The-Arabian-Nights-Entertainments_128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Cover; Front Matter; Title Page; Publisher Information; Preface; Arabian
+  Nights; The Arabian Nights; The Story of the Merchant and the Genius; The Story
+  of the First Old Man and of the Hind; The Story of the Second Old Man, and of the
+  Two Black Dogs; The Story of the Fisherman; The Story of the Greek King and the
+  Physician Douban; The Story of the Husband and the Parrot; The Story of the Vizir
+  Who Was Punished; The Story of the Young King of the Black Isles; The Story of the
+  Three Calenders, Sons of Kings, and of Five Ladies of Bagdad; The Story of the First
+  Calender, Son of a King.
+gutenberg_issued: '1994-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+- !lcsh 'Tales -- Arab countries'
+- !lcsh 'Folklore -- Arab countries'
+- !lcsh 'Fairy tales -- Arab countries'
+- !lcsh 'Arabs -- Folklore'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The story of the merchant and the genius -- The story of the first
+  old man and of the hind -- The story of the second old man and of the two black
+  dogs -- The story of the fisherman -- The story of the Greek king and the physician
+  Douban -- The story of the husband and the parrot -- The story of the vizir who
+  was punished -- The story of the young king of the black isles -- The story of the
+  three Calenders, sons of kings, and of five ladies of Bagdad -- The story of the
+  first Calender, son of a king -- The story of the second Calender, son of a king
+  -- The story of the envious man, and of him who was envied -- The story of the third
+  Calendar, son of a king -- The seven voyages of Sindbad the sailor -- The little
+  hunchback -- The story of the barber's fifth brother -- The story of the barber's
+  sixth brother -- The adventures of Prince Camaralzaman and the Princess Badoura
+  -- Noureddin and the fair Persian -- Aladdin and the wonderful lamp -- The adventures
+  of Haroun-al-Raschid, caliph of Bagdad -- Story of the blind Baba-Abdalla -- The
+  story of Sidi-Noumann -- Story of Ali Cogia, merchant of Bagdad -- The enchanted
+  horse -- The story of two sisters who were jealous of their younger sister.
+title: The Arabian Nights Entertainments
+url: http://www.gutenberg.org/ebooks/128
